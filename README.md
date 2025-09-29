@@ -6,7 +6,7 @@ An interactive deep learning web app that classifies images of cats 🐱 and dog
 
 🔗 https://checkcatordog.streamlit.app/ 
 
-Upload an image of a cat or dog and the app will predict the class along with confidence score:
+Upload an image of a cat or dog and the app will predict the class along with confidence score
 
 ⚙️ Features
 
